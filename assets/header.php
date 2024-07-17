@@ -21,7 +21,11 @@
            </header>
 
 
-           <div class="main">
+           
+     
+
+
+           <!-- <div class="main">
     <div class="left">
         <h1  >Instilling Greatness <br>
 Building Leaders <br>
@@ -30,7 +34,7 @@ Building Leaders <br>
     </div>
     <div class="right">
         <img  src="children.jpg" alt="">
-    </div>
+    </div> -->
             
            <!-- <section  id="banner" class=" section ml">
             <h4>About us</h4>
@@ -48,5 +52,8 @@ Building Leaders <br>
             </ul>
         </nav>
     </header> -->
-</body>
-</html>
+
+    <?php 
+    require_once("footer.php")
+    ?>
+ 
